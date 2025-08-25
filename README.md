@@ -1,6 +1,6 @@
 # CS230
 Briefly summarize The Gaming Room client and their software requirements. Who was the client? What type of software did they want you to design?
-
+  -The client is The Gaming Room. The software was a game called Draw It or Lose It. 
 What did you do particularly well in developing this documentation?
   -Probably nothing. Documentation like this is an serious weak point for me. 
 What about the process of working through a design document did you find helpful when developing the code?
